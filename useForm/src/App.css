@@ -1,0 +1,14 @@
+.App{
+  /* border: 2px solid; */
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#form-div{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  height: 320px;
+  align-items: center;
+}
